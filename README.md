@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at <i>coming soon</i>
+- 👨‍💻 All of my projects are available at https://troopl.com/minjaslavkovic
 
 - 📫 How to reach me **minja.slavkovic@gmail.com**
 
