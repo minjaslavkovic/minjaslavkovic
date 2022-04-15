@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minja</h1>
 <h3 align="center">A passionate full stack web developer based in London. :octocat:</h3>
 
-- 🔭 I’m currently working on [Watch list - movies](https://watch-list-minja-slavkovic.herokuapp.com/)
+- 🔭 I’m currently working on [React-portfolio]()
 
 - 🌱 I’m currently learning **React**
 
