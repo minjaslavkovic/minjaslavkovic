@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **minja.slavkovic@gmail.com**
 
-- 📄 Know about my experiences <i>coming soon</i>
-
 - ⚡ Fun fact **I learned how to sew during pandemic, made some pretty cool masks!**
 
 <h3 align="left">Connect with me:</h3>
