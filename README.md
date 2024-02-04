@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Minja</h1>
-<h3 align="center">A passionate full stack web developer based in London. :octocat:</h3>
-
-- 🔭 I’m currently working on [React-portfolio]()
-
-- 🌱 I’m currently learning **React**
+<h3 align="center">I'm a Developer Support Engineer at Algolia. :octocat:</h3>
 
 - 👨‍💻 All of my projects are available at https://troopl.com/minjaslavkovic
 
 - 📫 How to reach me **minja.slavkovic@gmail.com**
 
-- ⚡ Fun fact **I learned how to sew during pandemic, made some pretty cool masks!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minja-slavkovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minja-slavkovic" height="30" width="40" /></a>
-<a href="https://instagram.com/minja_slavkovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minja_slavkovic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
